@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: #BBE1FA;
+    font-family: Courier New, monospace;
+}
+
+button{
+    font-family: Courier New, monospace;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+#hwGrades, #hwWeight, #cwGrades, #cwWeight, #testGrades, #testWeight, #participationGrades, #participationWeight, #projectGrades, #projectWeight, #desiredGrade, #finalWeight {
+    text-align: center ;
+}
+
+#button1 {
+    position: relative ;
+    top: 10px ;
+}
+
+#currentGrade {
+    position: relative ;
+    top: 15px ;
+}
+
+#button2 {
+    position: relative ;
+    top: 20px;
+}
+
+#examGrade {
+    position: relative ;
+    top: 30px ;
+}
+
+#warning {
+    color: red ;
+    position: relative ;
+    top: 20px ;
+}
